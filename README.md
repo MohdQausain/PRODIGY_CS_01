@@ -48,6 +48,3 @@ Result: Khoor Zruog
 The Caesar Cipher is one of the earliest and simplest encryption techniques.
 This project demonstrates **basic cryptography concepts**, **string manipulation**, and **Python control flow** — great for beginners.
 
----
-
-Want me to also draft a **README.md file** structure for GitHub, so you can copy it directly?
