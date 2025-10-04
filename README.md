@@ -1,6 +1,5 @@
 # PRODIGY_CS_01
 Prodigy Cyber Security Internship - Task 1 - Implement Caesar Cipher
-Here’s a clean GitHub description you could use for your Caesar Cipher project:
 
 ---
 
